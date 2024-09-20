@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/patrickjmcd/ssd-farms/compare/v1.0.0...v1.0.1) (2024-09-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency date-fns to v4 ([6ee9bbd](https://github.com/patrickjmcd/ssd-farms/commit/6ee9bbdd53002d18f25605b337eddbda6d64e279))
+* **deps:** update dependency googleapis to v144 ([fa59a5d](https://github.com/patrickjmcd/ssd-farms/commit/fa59a5d0620b5cb709b05d6d0fcc485f84f121ab))
+
 ## 1.0.0 (2024-09-17)
 
 
